@@ -1,0 +1,25 @@
+product_id,product_name,category,list_price,unit_cost
+1,Wireless Mouse,Electronics,25,14.0
+2,Mechanical Keyboard,Electronics,70,38.0
+3,USB-C Hub,Electronics,45,24.0
+4,Bluetooth Speaker,Electronics,60,31.0
+5,Webcam HD,Electronics,55,29.0
+6,Laptop Stand,Electronics,35,17.0
+7,Office Chair,Furniture,180,105.0
+8,Standing Desk,Furniture,420,260.0
+9,Bookshelf,Furniture,140,82.0
+10,Desk Lamp,Furniture,40,19.0
+11,Filing Cabinet,Furniture,120,70.0
+12,Monitor Arm,Furniture,65,33.0
+13,Notebook Pack,Stationery,12,5.0
+14,Gel Pens (12),Stationery,9,3.5
+15,Sticky Notes,Stationery,6,2.2
+16,Desk Organizer,Stationery,22,10.0
+17,Whiteboard,Stationery,48,26.0
+18,Printer Paper (ream),Stationery,8,4.5
+19,Laptop Bag,Accessories,55,28.0
+20,Phone Case,Accessories,15,5.0
+21,Screen Cleaner Kit,Accessories,10,4.0
+22,Cable Organizer,Accessories,14,5.5
+23,Wrist Rest,Accessories,18,8.0
+24,Power Bank,Accessories,38,21.0

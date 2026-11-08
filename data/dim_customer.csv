@@ -1,0 +1,251 @@
+customer_id,segment,region
+1,Corporate,South
+2,Home Office,East
+3,Corporate,North
+4,Consumer,North
+5,Consumer,South
+6,Home Office,South
+7,Consumer,North
+8,Corporate,East
+9,Corporate,East
+10,Consumer,South
+11,Consumer,North
+12,Consumer,East
+13,Consumer,North
+14,Consumer,North
+15,Consumer,North
+16,Corporate,North
+17,Home Office,West
+18,Corporate,North
+19,Corporate,South
+20,Home Office,West
+21,Consumer,East
+22,Consumer,North
+23,Corporate,South
+24,Consumer,West
+25,Consumer,South
+26,Consumer,East
+27,Consumer,North
+28,Home Office,East
+29,Corporate,East
+30,Consumer,West
+31,Consumer,East
+32,Consumer,South
+33,Consumer,North
+34,Consumer,East
+35,Corporate,East
+36,Consumer,North
+37,Consumer,North
+38,Consumer,East
+39,Home Office,East
+40,Consumer,West
+41,Consumer,North
+42,Home Office,North
+43,Consumer,West
+44,Home Office,East
+45,Corporate,East
+46,Corporate,West
+47,Consumer,West
+48,Corporate,West
+49,Consumer,East
+50,Home Office,South
+51,Consumer,East
+52,Corporate,North
+53,Consumer,East
+54,Consumer,East
+55,Consumer,East
+56,Consumer,South
+57,Corporate,South
+58,Consumer,South
+59,Home Office,North
+60,Corporate,West
+61,Corporate,East
+62,Corporate,South
+63,Corporate,East
+64,Consumer,East
+65,Consumer,South
+66,Consumer,West
+67,Consumer,West
+68,Consumer,South
+69,Home Office,North
+70,Consumer,East
+71,Corporate,West
+72,Consumer,North
+73,Home Office,East
+74,Corporate,West
+75,Consumer,West
+76,Home Office,North
+77,Home Office,North
+78,Home Office,West
+79,Corporate,North
+80,Consumer,North
+81,Consumer,East
+82,Home Office,South
+83,Corporate,East
+84,Consumer,North
+85,Home Office,West
+86,Corporate,North
+87,Corporate,East
+88,Consumer,North
+89,Consumer,South
+90,Consumer,North
+91,Consumer,South
+92,Home Office,South
+93,Consumer,East
+94,Corporate,South
+95,Consumer,North
+96,Corporate,West
+97,Consumer,West
+98,Consumer,West
+99,Consumer,North
+100,Consumer,South
+101,Home Office,North
+102,Corporate,North
+103,Consumer,North
+104,Corporate,East
+105,Home Office,North
+106,Consumer,North
+107,Corporate,West
+108,Corporate,South
+109,Consumer,North
+110,Consumer,East
+111,Corporate,North
+112,Home Office,East
+113,Consumer,South
+114,Home Office,East
+115,Consumer,East
+116,Corporate,East
+117,Corporate,South
+118,Consumer,West
+119,Consumer,West
+120,Corporate,North
+121,Consumer,North
+122,Corporate,North
+123,Corporate,West
+124,Consumer,West
+125,Corporate,North
+126,Consumer,West
+127,Consumer,North
+128,Consumer,East
+129,Consumer,South
+130,Consumer,West
+131,Home Office,North
+132,Corporate,South
+133,Consumer,East
+134,Consumer,North
+135,Home Office,North
+136,Consumer,South
+137,Home Office,West
+138,Consumer,East
+139,Corporate,West
+140,Home Office,East
+141,Corporate,East
+142,Corporate,West
+143,Consumer,East
+144,Home Office,East
+145,Consumer,South
+146,Home Office,North
+147,Consumer,East
+148,Consumer,North
+149,Consumer,West
+150,Home Office,East
+151,Consumer,South
+152,Corporate,West
+153,Corporate,North
+154,Corporate,East
+155,Corporate,North
+156,Home Office,West
+157,Consumer,East
+158,Consumer,West
+159,Consumer,South
+160,Consumer,West
+161,Consumer,East
+162,Home Office,East
+163,Home Office,West
+164,Consumer,South
+165,Corporate,South
+166,Consumer,East
+167,Corporate,West
+168,Corporate,South
+169,Consumer,East
+170,Home Office,North
+171,Consumer,East
+172,Corporate,East
+173,Corporate,North
+174,Consumer,East
+175,Consumer,North
+176,Consumer,West
+177,Corporate,South
+178,Corporate,South
+179,Corporate,East
+180,Consumer,East
+181,Home Office,East
+182,Corporate,North
+183,Home Office,East
+184,Corporate,East
+185,Home Office,West
+186,Consumer,North
+187,Consumer,South
+188,Consumer,East
+189,Consumer,East
+190,Consumer,North
+191,Consumer,East
+192,Corporate,North
+193,Consumer,North
+194,Corporate,West
+195,Consumer,North
+196,Corporate,South
+197,Consumer,East
+198,Consumer,East
+199,Home Office,East
+200,Corporate,West
+201,Corporate,South
+202,Corporate,East
+203,Corporate,West
+204,Consumer,East
+205,Corporate,East
+206,Consumer,South
+207,Corporate,East
+208,Home Office,South
+209,Home Office,East
+210,Consumer,South
+211,Consumer,South
+212,Consumer,East
+213,Consumer,East
+214,Corporate,South
+215,Corporate,West
+216,Consumer,South
+217,Home Office,West
+218,Corporate,West
+219,Consumer,South
+220,Corporate,East
+221,Home Office,North
+222,Consumer,South
+223,Corporate,West
+224,Corporate,East
+225,Corporate,East
+226,Consumer,East
+227,Corporate,East
+228,Corporate,East
+229,Corporate,South
+230,Corporate,North
+231,Consumer,South
+232,Corporate,South
+233,Home Office,South
+234,Home Office,West
+235,Consumer,South
+236,Consumer,South
+237,Corporate,South
+238,Consumer,East
+239,Corporate,West
+240,Home Office,West
+241,Consumer,South
+242,Consumer,North
+243,Consumer,West
+244,Corporate,South
+245,Consumer,East
+246,Consumer,North
+247,Consumer,West
+248,Corporate,South
+249,Home Office,South
+250,Consumer,North
