@@ -4,6 +4,11 @@ A Power BI project built on a **star schema**: reproducible sample data, a docum
 Power Query steps and a dashboard specification. The sales data is **synthetic** (see `generate_data.py`) and is not
 from a real company.
 
+## Preview
+![Dashboard preview rendered with Matplotlib](docs/screenshots/dashboard-preview.png)
+
+> **This is not a Power BI screenshot.** It is a preview drawn with Matplotlib from this repo's data (same KPIs as `validate.py`) to show the intended layout. Replace it with a screenshot of the real report once the `.pbix` is built.
+
 ## Contents
 | Path | What it is |
 |---|---|
